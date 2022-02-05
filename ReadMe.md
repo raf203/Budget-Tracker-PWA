@@ -17,7 +17,7 @@ It's an app that allows the user to add expenses and deposits to their budget ev
 
 ## Usage
 
-# https://tranquil-tor-21962.herokuapp.com/
+### https://tranquil-tor-21962.herokuapp.com/
 It's an app that allows the user to add expenses and deposits to their budget even without an internet connection. In this case, the deposit and expenses will be updated when the connection is re-established.
     
 ## License
